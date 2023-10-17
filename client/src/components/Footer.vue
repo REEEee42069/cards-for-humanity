@@ -3,8 +3,8 @@
     <div class="is-flex-tablet is-justify-content-end">
       <p>
         Created by
-        <a href="https://github.com/etuong/cards-for-humanity" target="_blank"
-          >Ethan Uong</a
+        <a href="https://cah-h5iw.onrender.com/" target="_blank"
+          >Sky</a
         >
         👨‍💻
       </p>
