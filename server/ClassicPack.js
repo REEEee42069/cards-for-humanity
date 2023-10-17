@@ -161,7 +161,7 @@ module.exports = {
     "Oooo, Coach K like _____",
     "Our blue is better! We have _____!",
     "Our football team would be better if Coach would let our players _____.",
-    "Poor Brandon, still living in his parent's basement. I heard he never got over _____.",
+    "Poor Skyler, still living in his parent's basement. I heard he never got over _____.",
     "Puberty is a time of change. You might notice hair growing in new places. You might develop an interest in _____. This is normal.",
     "Racism still exists on campus. You can find a great example of it in _____.",
     "Run, run, as fast as you can! You can't catch me, I'm _____!",
