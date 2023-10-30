@@ -9,7 +9,7 @@ import "./styles/index.scss";
 window.$ = window.jQuery = jquery;
 
 const connection =
-  process.env.NODE_ENV === "development" ? "https://cah1.onrender.com/" : "https://client1-db38.onrender.com/";
+  process.env.NODE_ENV === "development" ? "http://localhost:8081" : "https://client1-db38.onrender.com/";
   
 const app = createApp(App);
 
