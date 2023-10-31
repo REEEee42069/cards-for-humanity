@@ -2,7 +2,7 @@
   <nav class="navbar is-fixed-top">
     <div class="navbar-brand">
       <img src="../assets/logo.png" class="logo" />
-      <a class="navbar-item site-title" href="#">Cards For Humanity </a>
+      <a class="navbar-item site-title" href="#">Cards Aganist Humanity </a>
       <a class="navbar-item site-title player-name" href="#">{{
         playerName
       }}</a>
