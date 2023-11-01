@@ -1,6 +1,6 @@
-# Cards For Humanity ❤️
+# Cards Against Humanity ❤️
 
-> Traditional [Cards Against Humanity](https://en.wikipedia.org/wiki/Cards_Against_Humanity) game moved to online experience! App supports a kid friendly version, hence Cards For Humanity
+> Traditional [Cards Against Humanity](https://en.wikipedia.org/wiki/Cards_Against_Humanity) game moved to online experience!
 
 ![alt text](screenshots/home.png)
 ![alt text](screenshots/lobby.png)
@@ -16,7 +16,7 @@
 1. It is recommended to use a teleconference software like Zoom to chat.
 
 ## How to play
-1. Visit game's **[website](https://etuong.github.io/cards-for-humanity/)** 🔗
+1. Visit game's **[website](https://reeeee42069.github.io/cards-for-humanity/)** 🔗
 2. Create a new room or join an existing one
 3. Invite your friends and give them the password to the room. You need at least three players to play.
 4. Enjoy 😊
