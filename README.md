@@ -2,7 +2,7 @@
 
 > Traditional [Cards Against Humanity](https://en.wikipedia.org/wiki/Cards_Against_Humanity) game moved to online experience!
 
-![alt text](screenshots/home.png)
+![alt text](screenshots/home.jpg)
 ![alt text](screenshots/lobby.png)
 ![alt text](screenshots/player.png)
 ![alt text](screenshots/czar.png)
