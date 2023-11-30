@@ -245,6 +245,7 @@ io.on('connection', (socket) => {
             gameRooms.delete(roomId);
             io.sockets.in(roomId).emit("show_home");
             console.log(`Deleting room ${roomId} because not enough players`);
+            window.close();
           } else {
             io.sockets.in(roomId).emit('update_preparation', {
               players: gameRoom.players,
