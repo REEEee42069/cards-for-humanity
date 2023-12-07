@@ -138,7 +138,7 @@ module.exports = {
     "Listen Gary, I like you. But if you want that corner office, you're going to have to show me _____.",
     "Living in Epworth sucked, but not as bad as _____.",
     "Living off campus makes it easier to have _____.",
-    "LSD + _____ = really bad time.",
+    "420 + _____ = really bad time.",
     "Man, this is bullshit. Fuck _____.",
     "Me and my RA don’t talk anymore because _____.",
     "Members of Duke's social elite are paying thousands of dollars just to experience _____.",
