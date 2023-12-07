@@ -49,7 +49,7 @@ io.on('connection', (socket) => {
       console.log(`${data.name} tries to create room ${roomId} but room exists already`);
     } else {
       const newGameRoom = new GameRoom(roomId);
-       if(name.length =< 32) {
+       if(name.length => 32) {
       return
         }else{
       const newPlayer = new Player(data.name, socket.id, roomId);
