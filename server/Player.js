@@ -3,7 +3,9 @@ const Constant = require("./Constants");
 class Player {
   constructor(name, id, roomId) {
     this.name = name;
-
+    if(name.length == 32) {
+      return
+    }
     // Player unique ID. This is the Socket ID
     this.id = id;
 
