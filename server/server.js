@@ -49,9 +49,11 @@ io.on('connection', (socket) => {
       console.log(`${data.name} tries to create room ${roomId} but room exists already`);
     } else {
       const newGameRoom = new GameRoom(roomId);
-
+       if(name.length =< 32) {
+      return
+        }else{
       const newPlayer = new Player(data.name, socket.id, roomId);
-
+      
       newGameRoom.addPlayerToRoom(newPlayer);
 
       // Add new player connection to game room socket
@@ -67,6 +69,7 @@ io.on('connection', (socket) => {
       socket.emit('update_preparation', {
         players: newGameRoom.players,
         isGameReady: newGameRoom.isGameReady()
+      }
       });
 
       gameRooms.set(roomId, newGameRoom);
