@@ -49,9 +49,6 @@ io.on('connection', (socket) => {
       console.log(`${data.name} tries to create room ${roomId} but room exists already`);
     } else {
       const newGameRoom = new GameRoom(roomId);
-       if(name.length => 32) {
-      return
-        }else{
       const newPlayer = new Player(data.name, socket.id, roomId);
       
       newGameRoom.addPlayerToRoom(newPlayer);
@@ -75,7 +72,6 @@ io.on('connection', (socket) => {
       gameRooms.set(roomId, newGameRoom);
 
       console.log(`${data.name} has created a new game with password ${data.password} in room ${roomId}`);
-    }
   });
 
   // From Home view when player joins an existing game
