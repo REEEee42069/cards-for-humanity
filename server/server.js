@@ -66,7 +66,7 @@ io.on('connection', (socket) => {
       socket.emit('update_preparation', {
         players: newGameRoom.players,
         isGameReady: newGameRoom.isGameReady()
-      
+      }
       });
 
       gameRooms.set(roomId, newGameRoom);
